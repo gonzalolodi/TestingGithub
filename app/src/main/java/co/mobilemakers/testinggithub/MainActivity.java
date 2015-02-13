@@ -25,7 +25,11 @@ public class MainActivity extends ActionBarActivity {
         }
     }
 
-public void gonzaHola(){}
+    public void gonzaHola(){
+        int a;
+        a = 2;
+    }
+
 
 
     @Override
