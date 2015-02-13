@@ -25,6 +25,8 @@ public class MainActivity extends ActionBarActivity {
         }
     }
 
+public void gonzaHola(){}
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
